@@ -1,0 +1,12 @@
+{
+  "https://www.prontohousingrentals.com": {
+    "hash": "608d7a61da07a989cbd27b81390e6755",
+    "last_check": "2026-01-07 08:07:22",
+    "first_check": "2026-01-07 08:05:41"
+  },
+  "https://httpbin.org/uuid": {
+    "hash": "8f1507a13de766ee1f7d1e745d926508",
+    "last_check": "2026-01-07 08:28:48",
+    "last_change": "2026-01-07 08:28:48"
+  }
+}
