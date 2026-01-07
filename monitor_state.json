@@ -1,12 +1,77 @@
 {
   "https://www.prontohousingrentals.com": {
     "hash": "608d7a61da07a989cbd27b81390e6755",
-    "last_check": "2026-01-07 08:07:22",
+    "last_check": "2026-01-07 09:29:49",
     "first_check": "2026-01-07 08:05:41"
   },
   "https://httpbin.org/uuid": {
     "hash": "8f1507a13de766ee1f7d1e745d926508",
     "last_check": "2026-01-07 08:28:48",
     "last_change": "2026-01-07 08:28:48"
+  },
+  "https://www.nychdc.com/find-re-rentals": {
+    "hash": "944288bb84959037c4870e1af5eb2218",
+    "last_check": "2026-01-07 09:29:49",
+    "first_check": "2026-01-07 09:29:35"
+  },
+  "https://fifthave.org/re-rental-availabilities/": {
+    "hash": "c22371a8ffaaad3cc240135feaa753e8",
+    "last_check": "2026-01-07 09:29:50",
+    "first_check": "2026-01-07 09:29:35"
+  },
+  "https://mgnyconsulting.com/listings/": {
+    "hash": "becd9b4ab38f129b2f73051b11e9090c",
+    "last_check": "2026-01-07 09:29:50",
+    "first_check": "2026-01-07 09:29:35"
+  },
+  "https://sbmgmt.sitemanager.rentmanager.com/RECLAIMHDFC.aspx": {
+    "hash": "53274ffc678fcced7a8de896c2853fbf",
+    "last_check": "2026-01-07 09:29:50",
+    "first_check": "2026-01-07 09:29:36"
+  },
+  "https://ahgleasing.com": {
+    "hash": "295050564902ab7832ebc3586620c7d0",
+    "last_check": "2026-01-07 09:29:50",
+    "first_check": "2026-01-07 09:29:36"
+  },
+  "https://www.sjpny.com/affordable-rerentals": {
+    "hash": "c120e42ebb6620855965da7a7752b415",
+    "last_check": "2026-01-07 09:29:50",
+    "first_check": "2026-01-07 09:29:36"
+  },
+  "https://soisrealestateconsulting.com/current-projects-1": {
+    "hash": "3e689bfd530ec4b42f01526c1a31d09c",
+    "last_check": "2026-01-07 09:29:51",
+    "first_check": "2026-01-07 09:29:36"
+  },
+  "https://springmanagement.net/apartments-for-rent/": {
+    "hash": "a639e1587c6e8c2645390760df9a6426",
+    "last_check": "2026-01-07 09:29:51",
+    "first_check": "2026-01-07 09:29:36"
+  },
+  "https://sites.google.com/affordablelivingnyc.com/hpd/home": {
+    "hash": "b2758faabb0abab0165778558d026b18",
+    "last_check": "2026-01-07 09:29:52",
+    "first_check": "2026-01-07 09:29:36"
+  },
+  "https://www.taxaceny.com/projects-8": {
+    "hash": "d1878936f983138cb8068c3e7a352853",
+    "last_check": "2026-01-07 09:29:52",
+    "first_check": "2026-01-07 09:29:36"
+  },
+  "https://tfc.com/about/affordable-re-rentals": {
+    "hash": "657443bcc69383290002b398e07227a6",
+    "last_check": "2026-01-07 09:29:52",
+    "first_check": "2026-01-07 09:29:36"
+  },
+  "https://wavecrestrentals.com/section.php?id=1": {
+    "hash": "b501e7b20de540b1cda1e2b91a06dd0b",
+    "last_check": "2026-01-07 09:29:52",
+    "first_check": "2026-01-07 09:29:37"
+  },
+  "https://yourneighborhoodhousing.com": {
+    "hash": "3a7e5db9c91255b9c388c674234ab589",
+    "last_check": "2026-01-07 09:29:52",
+    "first_check": "2026-01-07 09:29:37"
   }
 }
