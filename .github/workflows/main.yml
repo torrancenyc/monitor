@@ -2,7 +2,8 @@ name: Website Monitor
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+      - main
   schedule:
     # 每5分钟运行一次（UTC时间）
     - cron: '*/5 * * * *'
@@ -32,3 +33,7 @@ jobs:
         NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
       run: |
         python main.py --once
+    - name: Debug event
+      run: |
+        echo "Triggered by: ${{ github.event_name }}"
+        date -u
