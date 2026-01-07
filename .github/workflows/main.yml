@@ -1,6 +1,8 @@
 name: Website Monitor
 
 on:
+  push:
+    branches: [ "main" ]
   schedule:
     # 每5分钟运行一次（UTC时间）
     - cron: '*/5 * * * *'
